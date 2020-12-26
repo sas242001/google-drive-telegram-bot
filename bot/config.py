@@ -1,5 +1,5 @@
 class config:
-    BOT_TOKEN = "1409070798:AAFr42nWKTSU33oDrkNrP3EUmMv8C8N2rWg"
+    BOT_TOKEN = "1409070798:AAGb2yd2Qig1ezAvEMHWTqbKrbRu63tkIWg"
     APP_ID = "2720952"
     API_HASH = "730b1278e8ca3f0887ddc107f721a626"
     DATABASE_URL = "postgres://xofliblwhkprup:24f55958dc11f19a76b49fedb8259e2e8ee2ab8f295568440340801294398548@ec2-3-211-176-230.compute-1.amazonaws.com:5432/d42ilr5qmvb9o3"
